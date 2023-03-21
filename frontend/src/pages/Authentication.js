@@ -38,8 +38,10 @@ export async function action({request}) {
   }
 
   //Manage Token for sign in
-  const resData = await response.json;
+  const resData = await response.json();
   const token = resData.token;
+
+  console.log(token, resData);
 
   localStorage.setItem('token', token);
 
