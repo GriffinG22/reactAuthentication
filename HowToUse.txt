@@ -1,0 +1,3 @@
+To view this project on a development server run npm install in both the backend and frontend folder of this project. 
+
+Once installed run npm start in both folders to utilize port 8080 (!important) for the backend and port 3000 for the frontend.
