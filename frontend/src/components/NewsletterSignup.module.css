@@ -21,3 +21,8 @@
   background-color: var(--color-primary-300);
   color: var(--color-gray-800);
 }
+
+.signup_button {
+  background-color: #8a8784;
+  color: #1f1D1B;
+}
